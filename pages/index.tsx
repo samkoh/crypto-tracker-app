@@ -17,10 +17,10 @@ const Home: NextPage = () => {
                 Cryptocurrencies
               </h2>
               <p className="mt-2 text-3xl font-bold tracking-tighter text-gray-900 sm:text-4xl">
-                Digital money for a digital world
+                Digital currencies for an increasingly digital age
               </p>
               <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
-                Cryptocurrencies are digital or virtual currencies that use cryptography for security and are decentralized, meaning they are not controlled by any government and financial institution.
+                Cryptocurrencies are decentralized digital currencies that use encryption techniques to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank.
               </p>
             </div>
 
